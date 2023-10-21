@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 slint = "1.2.2"
+shunting = "0.1.2"
